@@ -1,6 +1,6 @@
 <div>
 <img src="https://img.shields.io/badge/w.nth1222@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff"
-  style="height: auto; margin-left: 5px; margin-right: 5px; border-radius: 5px;"/>
+  style="height: auto; margin-left: 5px; margin-right: 5px;/>
 </div>
 
 ## AlpoxDev : Service Programmer
