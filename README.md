@@ -1,8 +1,8 @@
 <div>
-  <img src="https://img.shields.io/badge/w.nth1222@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff" width="50" height="50" />
+  <img src="https://img.shields.io/badge/w.nth1222@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff" width="100" height="50" />
   
   <a href="https://instagram.com/notae__o_o/">
-    <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/notae__o_o/" width="50" height="50" />
+    <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/notae__o_o/" width="100" height="50" />
   </a>
 </div>
 
