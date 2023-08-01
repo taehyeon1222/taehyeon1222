@@ -9,7 +9,7 @@
   <h2>📚tech stack📚</h2>
 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle SQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/oracle SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/springBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </div>
