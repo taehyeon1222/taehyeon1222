@@ -1,6 +1,11 @@
 <div>
 <img src="https://img.shields.io/badge/w.nth1222@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff"
   style="height: auto; margin-left: 5px; margin-right: 5px;"/>
+  <a href="https://instagram.com/notae__o_o/">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/notae__o_o/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
 </div>
 
 ## AlpoxDev : Service Programmer
@@ -13,12 +18,7 @@
 -  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
 -  <img src="https://img.shields.io/badge/springBoot 3.0.5-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
 
-<a href="https://instagram.com/notae__o_o/">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/notae__o_o/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://alpox.kr">
+
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
