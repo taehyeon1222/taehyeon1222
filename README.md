@@ -37,4 +37,5 @@
   </a>
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=Now Use me!&color=auto&height=200&section=header&text=&fontSize=90" />
 
