@@ -10,7 +10,7 @@
 
 <!-- README.md -->
 <div style="display: flex; align-items: center;">
-   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" height="20">
   <img src="https://img.shields.io/badge/oracle SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/springBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="20" />
