@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <h2>🛠Tolls🛠/h2>
+  <h2> 🛠Tolls🛠 </h2>
 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/oracle SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
