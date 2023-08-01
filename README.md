@@ -5,14 +5,13 @@
 
 ## AlpoxDev : Service Programmer
 
-어플리케이션부터 프론트엔드, 백엔드 모두 관심이 많으며 실 서비스를 만드는데 관심이 많은 프로그래머입니다. 
+프론트엔드, 백엔드 모두 관심이 많으며 실 서비스를 만드는데 관심이 많은 프로그래머입니다. 
 
 ## Stack
 
-- React.js
-- Node.js
-- React-Native
-- Android-Studio
+-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+-  <img src="https://img.shields.io/badge/springBoot 3.0.5-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
 
 <a href="https://instagram.com/alpox.dev">
     <img 
