@@ -38,7 +38,7 @@
 </div>
 
 </div>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&text=NoTaeHyeon&fontSize=50" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&rotate=180&section=header&reversal=true&section=footer"/>
 
 
