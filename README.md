@@ -1,7 +1,9 @@
 <div>
-    <img
-        src="https://img.shields.io/badge/w.nth1222@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff"
-         style="height : auto; margin-left : 10px; margin-right : 10px; radius : 10px"/>
+<img
+  src="https://img.shields.io/badge/w.nth1222@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff"
+  style="height: auto; margin-left: 10px; margin-right: 10px; border-radius: 10px;"
+/>
+
     <img 
         src="https://img.shields.io/github/followers/AlpoxDev?label=AlpoxDev%20Followers&style=social"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
