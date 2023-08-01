@@ -37,7 +37,7 @@
   </a>
 </div>
 
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=20&rotate=-60)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=NoTaeHyeon&fontSize=90" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=NoTaeHyeon&fontSize=90&rotate=-60" />
 
