@@ -1,13 +1,9 @@
+.center {
+  text-align: center;
+}
 ## 👀 개발하는것이 즐겁다!
 
 프론트엔드, 백엔드 모두 관심이 많으며 실 서비스를 만드는데 관심이 많은 프로그래머입니다.!
-
-<!-- README.md -->
-<style>
-  .center {
-    text-align: center;
-  }
-</style>
 
 <div class="center">
   <h2>Stack</h2>
