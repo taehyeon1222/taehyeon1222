@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4285f4&height=100&section=header&text=NoTaeHyeon&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header&text=NoTaeHyeon&fontSize=50" />
 
 
 <div align="center""> 
