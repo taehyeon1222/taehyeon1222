@@ -39,5 +39,5 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&rotate=-60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&rotate=-60" &section=header/>
 
