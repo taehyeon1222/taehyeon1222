@@ -13,7 +13,7 @@
 -  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
 -  <img src="https://img.shields.io/badge/springBoot 3.0.5-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
 
-<a href="https://instagram.com/alpox.dev">
+<a href="https://instagram.com/notae__o_o/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/notae__o_o/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
