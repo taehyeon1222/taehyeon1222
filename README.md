@@ -1,5 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=NoTaeHyeon&fontSize=90" />
 
+
+<div align="center""> 
+  <h1>👀 개발하는것이 즐겁다!</h1>
+</div>
+프론트엔드, 백엔드 모두 관심이 많으며 새로운것을 공부 하고 배우는것이 즐거운 개발자 입니다.! 
+<div align="center""> 
+
 <div align="center">
   <h2>📚tech stack & Toolls🛠</h2>
 
@@ -18,11 +25,7 @@
   </div>
 </div>
 
-<div align="center""> 
-  <h1>👀 개발하는것이 즐겁다!</h1>
-</div>
-프론트엔드, 백엔드 모두 관심이 많으며 새로운것을 공부 하고 배우는것이 즐거운 개발자 입니다.! 
-<div align="center""> 
+
 
 <br><br><br>
 
